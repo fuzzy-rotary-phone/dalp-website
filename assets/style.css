@@ -2707,3 +2707,7 @@ ile-root:empty {
 		line-height: 1.75rem
 	}
 }
+
+.gap {
+	height: 48px;
+}
