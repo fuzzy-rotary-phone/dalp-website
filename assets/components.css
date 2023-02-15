@@ -244,7 +244,7 @@ body {
 	min-height: 100%;
 	background-color: #fff;
 	font-family: Inter, sans-serif;
-	color: #421c86;
+	color: #023e8a;
 	font-size: 1rem;
 	line-height: 1.5
 }
@@ -392,7 +392,7 @@ html[data-w-dynpage] [data-w-cloak] {
 p {
 	margin-top: 0;
 	margin-bottom: 0;
-	color: #421c86;
+	color: #023e8a;
 	letter-spacing: -.015em
 }
 
@@ -2165,7 +2165,7 @@ textarea.w-select {
 h1 {
 	margin: 0;
 	font-family: Poppins, sans-serif;
-	color: #421c86;
+	color: #023e8a;
 	font-size: 3.5rem;
 	line-height: 1.1;
 	font-weight: 500
@@ -2175,7 +2175,7 @@ h2 {
 	margin-top: 0;
 	margin-bottom: 0;
 	font-family: Poppins, sans-serif;
-	color: #421c86;
+	color: #023e8a;
 	font-size: 3rem;
 	line-height: 1.1;
 	font-weight: 500
@@ -2185,7 +2185,7 @@ h3 {
 	margin-top: 0;
 	margin-bottom: 0;
 	font-family: Poppins, sans-serif;
-	color: #421c86;
+	color: #023e8a;
 	font-size: 2rem;
 	line-height: 1.2;
 	font-weight: 500
@@ -2195,7 +2195,7 @@ h4 {
 	margin-top: 0;
 	margin-bottom: 0;
 	font-family: Poppins, sans-serif;
-	color: #421c86;
+	color: #023e8a;
 	font-size: 1.75rem;
 	line-height: 1.2;
 	font-weight: 500
@@ -2205,7 +2205,7 @@ h5 {
 	margin-top: 0;
 	margin-bottom: 0;
 	font-family: Poppins, sans-serif;
-	color: #421c86;
+	color: #023e8a;
 	font-size: 1.5rem;
 	line-height: 1.2;
 	font-weight: 500
@@ -2215,7 +2215,7 @@ h6 {
 	margin-top: 0;
 	margin-bottom: 0;
 	font-family: Poppins, sans-serif;
-	color: #421c86;
+	color: #023e8a;
 	font-size: 1.25rem;
 	line-height: 1.2;
 	font-weight: 500
@@ -2223,7 +2223,7 @@ h6 {
 
 a {
 	background-color: transparent;
-	color: #7034e4;
+	color: #0077b6;
 	font-weight: 500;
 	letter-spacing: -.015rem;
 	text-decoration: underline;
@@ -2259,7 +2259,7 @@ blockquote {
 	padding: 0;
 	border: 0 #000;
 	font-family: Poppins, sans-serif;
-	color: #421c86;
+	color: #023e8a;
 	font-size: 2rem;
 	line-height: 1.2;
 	font-weight: 500
@@ -2325,7 +2325,7 @@ blockquote {
 
 .link {
 	font-family: Inter, sans-serif;
-	color: #7034e4;
+	color: #0077b6;
 	font-size: 1rem;
 	line-height: 1.5;
 	font-weight: 500;
@@ -2335,12 +2335,12 @@ blockquote {
 }
 
 .link:hover {
-	color: #7034e4;
+	color: #0077b6;
 	text-decoration: none
 }
 
 .link:active {
-	color: #421c86
+	color: #023e8a
 }
 
 .link:focus-visible {
@@ -2356,7 +2356,7 @@ blockquote {
 }
 
 .link.dark {
-	color: #421c86;
+	color: #023e8a;
 	text-decoration: none
 }
 
@@ -2375,7 +2375,7 @@ blockquote {
 
 .link.big {
 	font-family: Poppins, sans-serif;
-	color: #421c86;
+	color: #023e8a;
 	font-size: 1.75rem;
 	line-height: 2.25rem;
 	text-decoration: none
@@ -2383,7 +2383,7 @@ blockquote {
 
 .overline {
 	font-family: Poppins, sans-serif;
-	color: #7034e4;
+	color: #0077b6;
 	font-size: .875rem;
 	line-height: 1;
 	font-weight: 600;
@@ -2396,11 +2396,11 @@ blockquote {
 }
 
 .tc-primary-900 {
-	color: #421c86
+	color: #023e8a
 }
 
 .tc-primary-600 {
-	color: #7034e4
+	color: #0077b6
 }
 
 .tc-white-100 {
@@ -2463,7 +2463,7 @@ blockquote {
 	-webkit-justify-content: center;
 	-ms-flex-pack: center;
 	justify-content: center;
-	background-color: #7034e4
+	background-color: #0077b6
 }
 
 .section.home {
@@ -2739,11 +2739,11 @@ blockquote {
 
 .button.primary,
 .button.primary:hover {
-	background-color: #7034e4
+	background-color: #0077b6
 }
 
 .button.primary:active {
-	background-color: #421c86;
+	background-color: #023e8a;
 	box-shadow: 0 3px 6px 0 rgba(0, 0, 0, .16)
 }
 
@@ -2758,7 +2758,7 @@ blockquote {
 .button.secondary {
 	background-color: #f3f1fe;
 	box-shadow: none;
-	color: #7034e4
+	color: #0077b6
 }
 
 .button.secondary:active,
@@ -2777,7 +2777,7 @@ blockquote {
 .button.tertiary {
 	background-color: transparent;
 	box-shadow: none;
-	color: #7034e4
+	color: #0077b6
 }
 
 .button.tertiary:hover {
@@ -2805,7 +2805,7 @@ blockquote {
 .button.outline {
 	border: 1px solid #e4e7eb;
 	background-color: #fff;
-	color: #421c86
+	color: #023e8a
 }
 
 .button.outline:hover {
@@ -2852,14 +2852,14 @@ blockquote {
 }
 
 .button.size-xl.ghost-dark {
-	border: 1px solid #421c86;
+	border: 1px solid #023e8a;
 	background-color: transparent;
-	color: #421c86
+	color: #023e8a
 }
 
 .button.size-xl.ghost-dark:hover {
-	border-color: #7034e4;
-	color: #7034e4
+	border-color: #0077b6;
+	color: #0077b6
 }
 
 .button.size-xl.ghost-dark:active {
@@ -2912,7 +2912,7 @@ blockquote {
 	-webkit-align-items: center;
 	-ms-flex-align: center;
 	align-items: center;
-	background-color: #7034e4;
+	background-color: #0077b6;
 	outline-offset: -1px;
 	outline: rgba(0, 0, 0, .08) solid 1px;
 	color: #f2f4f6
@@ -3097,13 +3097,13 @@ blockquote {
 .nav-link {
 	padding: 8px 16px;
 	border-radius: 8px;
-	color: #421c86;
+	color: #023e8a;
 	text-align: center
 }
 
 .nav-link:hover {
 	background-color: #f3f1fe;
-	color: #7034e4
+	color: #0077b6
 }
 
 .nav-link:active {
@@ -3112,7 +3112,7 @@ blockquote {
 
 .nav-link:focus {
 	background-color: #f3f1fe;
-	color: #7034e4
+	color: #0077b6
 }
 
 .nav-link:focus-visible {
@@ -3127,7 +3127,7 @@ blockquote {
 
 .nav-link.label-m.w--current,
 .nav-link.w--current {
-	color: #421c86
+	color: #023e8a
 }
 
 .logotype {
@@ -3153,7 +3153,7 @@ blockquote {
 	-webkit-flex: 0 auto;
 	-ms-flex: 0 auto;
 	flex: 0 auto;
-	color: #421c86
+	color: #023e8a
 }
 
 .navbar {
@@ -3266,7 +3266,7 @@ blockquote {
 	padding: 6px 16px;
 	border-radius: 20px;
 	background-color: #f3f1fe;
-	color: #7034e4
+	color: #0077b6
 }
 
 .tag.primary.popular {
@@ -3279,7 +3279,7 @@ blockquote {
 	padding: 6px 16px;
 	border-radius: 20px;
 	background-color: #f3f1fe;
-	color: #7034e4;
+	color: #0077b6;
 	text-transform: uppercase
 }
 
@@ -3519,13 +3519,13 @@ blockquote {
 	-webkit-flex-direction: column;
 	-ms-flex-direction: column;
 	flex-direction: column;
-	color: #421c86;
+	color: #023e8a;
 	font-weight: 400;
 	text-decoration: none
 }
 
 .card.bgc-primary-600 {
-	background-color: #7034e4
+	background-color: #0077b6
 }
 
 .image {
@@ -3580,7 +3580,7 @@ blockquote {
 	width: 48px;
 	height: 48px;
 	border-radius: 100%;
-	background-color: #7034e4
+	background-color: #0077b6
 }
 
 .left-arrow.rebl03 {
@@ -3595,7 +3595,7 @@ blockquote {
 	width: 48px;
 	height: 48px;
 	border-radius: 100%;
-	background-color: #7034e4
+	background-color: #0077b6
 }
 
 .right-arrow.rebl03 {
@@ -4002,7 +4002,7 @@ blockquote {
 	display: -ms-flexbox;
 	display: flex;
 	padding: 40px;
-	background-color: #7034e4;
+	background-color: #0077b6;
 	background-image: url("https://assets.website-files.com/638f33c9df26a4a190b723d4/638f33c9df26a4d309b72488_Lefteli.png");
 	background-position: 0 0;
 	background-size: auto 75vh;
@@ -4071,7 +4071,7 @@ blockquote {
 .div-block-2 {
 	width: 100%;
 	padding-top: 16px;
-	border-top: 4px solid #7034e4
+	border-top: 4px solid #0077b6
 }
 
 .style-guide-color-grid {
@@ -4099,11 +4099,11 @@ blockquote {
 }
 
 .style-guide-color.primary-900 {
-	background-color: #421c86
+	background-color: #023e8a
 }
 
 .style-guide-color.primary-600 {
-	background-color: #7034e4
+	background-color: #0077b6
 }
 
 .style-guide-color.primary-300 {
@@ -4158,11 +4158,11 @@ blockquote {
 
 	.link,
 	.link:hover {
-		color: #7034e4
+		color: #0077b6
 	}
 
 	.link:active {
-		color: #421c86
+		color: #023e8a
 	}
 
 	.link:focus-visible {
@@ -4202,7 +4202,7 @@ blockquote {
 	}
 
 	.button.secondary.size-m {
-		color: #7034e4
+		color: #0077b6
 	}
 
 	.button.secondary.size-m:focus-visible {
@@ -4214,7 +4214,7 @@ blockquote {
 	}
 
 	.button.secondary.size-xl {
-		color: #7034e4
+		color: #0077b6
 	}
 
 	.button.tertiary:hover {
@@ -4230,12 +4230,12 @@ blockquote {
 	}
 
 	.avatar.corners-100.size-s {
-		background-color: #7034e4
+		background-color: #0077b6
 	}
 
 	.label-s,
 	.nav-link:hover {
-		color: #7034e4
+		color: #0077b6
 	}
 
 	.nav-link:active {
@@ -4244,7 +4244,7 @@ blockquote {
 
 	.nav-link:focus {
 		background-color: #f3f1fe;
-		color: #7034e4
+		color: #0077b6
 	}
 
 	.nav-link:focus-visible {
@@ -4256,11 +4256,11 @@ blockquote {
 	}
 
 	.logotype {
-		color: #421c86
+		color: #023e8a
 	}
 
 	.card.bgc-primary-600 {
-		background-color: #7034e4
+		background-color: #0077b6
 	}
 
 	.icon {
@@ -4395,12 +4395,12 @@ blockquote {
 		right: -8px;
 		padding: 8px;
 		border-radius: 4px;
-		color: #421c86
+		color: #023e8a
 	}
 
 	.menu-button.w--open {
 		border-radius: 8px;
-		background-color: #7034e4
+		background-color: #0077b6
 	}
 
 	.g-stack-l.footer-basis {
