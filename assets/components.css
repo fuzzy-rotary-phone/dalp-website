@@ -2411,6 +2411,10 @@ blockquote {
 	color: rgba(255, 255, 255, .8)
 }
 
+.tc-white-80-important {
+	color: rgba(255, 255, 255, .8) !important
+}
+
 .section {
 	overflow: hidden;
 	margin-right: auto;
