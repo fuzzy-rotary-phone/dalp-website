@@ -2576,6 +2576,10 @@ blockquote {
 	flex-wrap: wrap
 }
 
+.row.w75 {
+	width: 75%;
+}
+
 .row.navbar {
 	padding-right: 20px;
 	padding-left: 20px;
@@ -2583,6 +2587,14 @@ blockquote {
 	-webkit-align-items: center;
 	-ms-flex-align: center;
 	align-items: center
+}
+
+.row.g-stack-l {
+	-webkit-box-orient: horizontal;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: row;
+	-ms-flex-direction: row;
+	flex-direction: row
 }
 
 .row.g-stack-xl {
@@ -2995,13 +3007,13 @@ blockquote {
 }
 
 .input:active {
-	border-color: #9c7ff4;
+	border-color: #023e8a;
 	background-color: #fff
 }
 
 .input:focus {
 	border-width: 2px;
-	border-color: #9c7ff4;
+	border-color: #023e8a;
 	background-color: #fff
 }
 

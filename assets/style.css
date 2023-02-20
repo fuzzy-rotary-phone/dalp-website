@@ -2716,3 +2716,36 @@ ile-root:empty {
 .gap {
 	height: 48px;
 }
+
+.focus-box {
+	box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+	padding: 40px;
+	background: linear-gradient(to bottom right, #3898ec, #023e8a);
+	color: #fff;
+	border: 2px solid #023e8a;
+	border-radius: 10px;	
+}
+
+.focus-box:hover {
+	box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
+	transform: scale(1.05);
+}
+
+.tile-box {
+	border: 2px solid #023e8a;
+	background-color: #fff;
+	border-radius: 5px;
+	padding: 20px;
+	box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+	background: linear-gradient(to bottom right, #ffffff, #f2f2f2);
+	margin: 10px;
+}
+
+.tile-box:hover {
+	box-shadow: 0 0 15px rgba(0, 0, 0, 0.3);
+	transform: scale(1.03);
+}
+
+.item-center-important {
+	align-items: center !important;
+}

@@ -8111,9 +8111,10 @@
             E = window.alert,
             g = i.env(),
             m = /list-manage[1-9]?.com/i,
-            y = e.debounce(function() {
-                E("Oops! This page has improperly configured forms. Please contact your website administrator to fix this issue.")
-            }, 100);
+            y = e.debounce(function() {}, 100);
+            // y = e.debounce(function() {
+            //     E("Oops! This page has improperly configured forms. Please contact your website administrator to fix this issue.")
+            // }, 100);
 
         function _(e, n) {
             var r = t(n),
@@ -8252,7 +8253,7 @@
                 }
                 "string" == typeof s && (s = t.trim(s)), n[c] = s, r = r || function(t, e, n, r) {
                     var i = null;
-                    "password" === e ? i = "Passwords cannot be submitted." : t.attr("required") ? r ? v.test(t.attr("type")) && (h.test(r) || (i = "Please enter a valid email address for: " + n)) : i = "Please fill out the required field: " + n : "g-recaptcha-response" !== n || r || (i = "Please confirm you’re not a robot.");
+                    // "password" === e ? i = "Passwords cannot be submitted." : t.attr("required") ? r ? v.test(t.attr("type")) && (h.test(r) || (i = "Please enter a valid email address for: " + n)) : i = "Please fill out the required field: " + n : "g-recaptcha-response" !== n || r || (i = "Please confirm you’re not a robot.");
                     return i
                 }(a, u, c, s)
             }), r
